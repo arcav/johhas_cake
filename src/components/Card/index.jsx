@@ -1,22 +1,21 @@
 import React from "react";
 
-export const Card = () => {
+export const Card = ({ cake, personal }) => {
   return (
-    <div className="w-full rounded-lg shadow-md lg:max-w-sm">
+    <div className="w-full h-50 rounded-lg shadow-lg mt-5">
       <img
-        className="object-cover w-full h-48"
-        src="https://cdn.pixabay.com/photo/2022/08/18/09/20/houses-7394390__340.jpg"
-        alt="image"
+        className="object-scale-down rounded-lg"
+        src={personal}
+        alt="cake"
       />
+
       <div className="p-4">
         <h4 className="text-xl font-semibold tracking-tight text-blue-600">
-          Title{" "}
+          {cake}
         </h4>
-        <p className="mb-2 leading-normal">
-          description
-        </p>
+        <p className="mb-2 leading-normal"></p>
         <button className="px-4 py-2 text-sm text-blue-100 bg-blue-500 rounded shadow">
-          Read more
+          Cake
         </button>
       </div>
     </div>

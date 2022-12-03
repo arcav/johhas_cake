@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "cake1",
+        "description": "reseña del producto",
+        "price": 100,
+        "category": "tortas",
+        "image": "assets/product1.jpg"
+    },
+    {
+        "id": 2,
+        "title": "cake2",
+        "description": "reseña del producto",
+        "price": 100,
+        "category": "tortas",
+        "image": "assets/product2.jpg"
+    },
+    {
+        "id": 3,
+        "title": "cake3",
+        "description": "reseña del producto",
+        "price": 100,
+        "category": "tortas",
+        "image": "assets/product3.jpg"
+    },
+    {
+        "id": 4,
+        "title": "cake4",
+        "description": "reseña del producto",
+        "price": 100,
+        "category": "tortas",
+        "image": "assets/product4.jpg"
+    },
+    {
+        "id": 5,
+        "title": "cake5",
+        "description": "reseña del producto",
+        "price": 100,
+        "category": "tortas",
+        "image": "assets/product5.jpg"
+    },
+    {
+        "id": 6,
+        "title": "cake6",
+        "description": "reseña del producto",
+        "price": 100,
+        "category": "tortas",
+        "image": "assets/product6.jpg"
+    },
+    {
+        "id": 7,
+        "title": "cake1",
+        "description": "reseña del producto",
+        "price": 100,
+        "category": "tortas",
+        "image": "assets/product8.jpg"
+    }
+]
